@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/splashimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/splash"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginBottom="32dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/splashimage"
+            android:layout_alignStart="@+id/splashimage"
+            android:layout_alignEnd="@+id/splashimage"
+            android:layout_alignBottom="@+id/splashimage"
+            android:text="BRAND NAME"
+            android:textStyle="bold"
+            android:textSize="26sp"
+            app:layout_constraintBottom_toBottomOf="@+id/splashimage"
+            app:layout_constraintEnd_toEndOf="@+id/splashimage"
+            app:layout_constraintStart_toStartOf="@+id/splashimage"
+            app:layout_constraintTop_toBottomOf="@+id/splashimage" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
