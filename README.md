@@ -1,5 +1,9 @@
 Kotlin-UI-Projects
 
+<h3>Animations</h3>
+<img src="https://user-images.githubusercontent.com/43512845/149630667-8d320b17-bda6-48a5-b318-88ebb5a50966.gif" width="30%">
+
+
 <h3>Onboarding Screens</h3>
 
 <img src="https://user-images.githubusercontent.com/43512845/149621844-ca969da6-729f-4cda-a818-f2d562798db3.gif" width="30%">
