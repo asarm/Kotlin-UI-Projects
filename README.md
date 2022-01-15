@@ -1,4 +1,5 @@
 Kotlin-UI-Projects
+UI projects I developed while learning mobile programming with Kotlin
 
 <h3>Animations</h3>
 <img src="https://user-images.githubusercontent.com/43512845/149630667-8d320b17-bda6-48a5-b318-88ebb5a50966.gif" width="30%">
