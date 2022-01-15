@@ -1,5 +1,12 @@
 Kotlin-UI-Projects
 
+<h3>Onboarding Screens</h3>
+<div>
+  <video width="320" height="240" controls>
+  <source src="videos/video1.mp4" type="video/mp4">
+  </video>
+</div>
+
 <h3>Login UI</h3>
 <div>
 <img src="images/login1.png" width=30%>
