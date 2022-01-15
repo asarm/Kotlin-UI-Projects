@@ -1,10 +1,8 @@
 Kotlin-UI-Projects
 
 <h3>Onboarding Screens</h3>
-<div>
-  ![video1](https://user-images.githubusercontent.com/43512845/149621844-ca969da6-729f-4cda-a818-f2d562798db3.gif)
 
-</div>
+<img src="https://user-images.githubusercontent.com/43512845/149621844-ca969da6-729f-4cda-a818-f2d562798db3.gif" width="30%">
 
 <h3>Login UI</h3>
 <div>
