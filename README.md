@@ -2,9 +2,8 @@ Kotlin-UI-Projects
 
 <h3>Onboarding Screens</h3>
 <div>
-  <video width="320" height="240" controls>
-  <source src="videos/video1.mp4" type="video/mp4">
-  </video>
+  ![video1](https://user-images.githubusercontent.com/43512845/149621844-ca969da6-729f-4cda-a818-f2d562798db3.gif)
+
 </div>
 
 <h3>Login UI</h3>
